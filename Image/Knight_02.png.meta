@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: b53e8643ce42c664b9faa8188182017e
+timeCreated: 1473527869
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Knight_Head
+    21300002: Knight_Cough
+    21300004: Knight_02_2
+    21300006: Knight_Sword
+    21300008: Knight_02_4
+    21300010: Knight_Top_Right_Arm
+    21300012: Knight_02_6
+    21300014: Knight_Top_Body
+    21300016: Knight_Top_Left_Arm
+    21300018: Knight_02_9
+    21300020: Knight_02_10
+    21300022: Knight_Lower_Left_Arm
+    21300024: Knight_Lower_Right_Arm
+    21300026: Knight_02_13
+    21300028: Knight_02_14
+    21300030: Knight_Lower_Body
+    21300032: Knight_02_16
+    21300034: Knight_02_17
+    21300036: Knight_Top_Right_Leg
+    21300038: Knight_Top_Lrft_Leg
+    21300040: Knight_02_20
+    21300042: Knight_02_21
+    21300044: Knight_Lower_Right_Leg
+    21300046: Knight_Lower_Left_Leg
+    21300048: Knight_Right_Foot
+    21300050: Knight_Left_Foot
+    21300052: Knight_Cough2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Knight_Head
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 886
+        width: 93
+        height: 80
+      alignment: 9
+      pivot: {x: 0.40625164, y: 0.091314696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.7814026, y: 72.694824}
+        - {x: -37.781403, y: 52.694824}
+        - {x: -37.781403, y: 0.6948242}
+        - {x: -34.781403, y: -7.305176}
+        - {x: 40.218597, y: -7.305176}
+        - {x: 55.218597, y: 22.694824}
+        - {x: 55.218597, y: 61.694824}
+        - {x: 43.218597, y: 72.694824}
+      - - {x: 6.2185974, y: 68.694824}
+        - {x: 9.218597, y: 68.694824}
+        - {x: 13.218597, y: 70.694824}
+        - {x: 13.218597, y: 72.694824}
+        - {x: 3.2185974, y: 72.694824}
+        - {x: 3.2185974, y: 71.694824}
+    - name: Knight_Cough
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1109
+        width: 94
+        height: 40
+      alignment: 9
+      pivot: {x: 0.84774077, y: 0.9030226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.312378, y: -3.1208496}
+        - {x: 8.312378, y: 3.8791504}
+        - {x: -4.687622, y: 3.8791504}
+        - {x: -74.68762, y: -1.1208496}
+        - {x: -79.68762, y: -9.12085}
+        - {x: -79.68762, y: -36.12085}
+        - {x: -43.687622, y: -36.12085}
+        - {x: -9.687622, y: -32.12085}
+        - {x: 6.312378, y: -30.12085}
+        - {x: 14.312378, y: -25.12085}
+    - name: Knight_02_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 888
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Knight_Sword
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 319
+        width: 169
+        height: 574
+      alignment: 9
+      pivot: {x: 0.81769955, y: 0.19599877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.808777, y: -43.503296}
+        - {x: 30.808777, y: 8.496704}
+        - {x: 30.808777, y: 442.4967}
+        - {x: 12.808777, y: 461.4967}
+        - {x: -20.191223, y: 461.4967}
+        - {x: -138.19122, y: -67.503296}
+        - {x: -138.19122, y: -88.503296}
+        - {x: -127.19122, y: -97.503296}
+        - {x: -123.19122, y: -96.503296}
+        - {x: -107.19122, y: -109.503296}
+        - {x: -99.19122, y: -112.503296}
+        - {x: -82.19122, y: -112.503296}
+        - {x: -22.191223, y: -62.503296}
+        - {x: -20.191223, y: -59.503296}
+        - {x: -0.19122314, y: -51.503296}
+    - name: Knight_02_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 865
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Knight_Top_Right_Arm
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 718
+        width: 49
+        height: 110
+      alignment: 9
+      pivot: {x: 0.47775862, y: 0.8665788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.410172, y: -87.32367}
+        - {x: -22.410172, y: -89.32367}
+        - {x: -22.410172, y: -95.32367}
+        - {x: -16.410172, y: -95.32367}
+        - {x: -15.4101715, y: -93.32367}
+        - {x: -15.4101715, y: -88.32367}
+      - - {x: 18.589828, y: 14.676331}
+        - {x: -20.410172, y: 14.676331}
+        - {x: -23.410172, y: 3.6763306}
+        - {x: -23.410172, y: -44.32367}
+        - {x: -10.4101715, y: -93.32367}
+        - {x: 3.5898285, y: -93.32367}
+        - {x: 24.589828, y: -79.32367}
+        - {x: 25.589828, y: -68.32367}
+        - {x: 25.589828, y: 4.6763306}
+    - name: Knight_02_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 738
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Knight_Top_Body
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 585
+        width: 107
+        height: 115
+      alignment: 9
+      pivot: {x: 0.56111217, y: 0.14935939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.039, y: 97.82367}
+        - {x: -59.039, y: 72.82367}
+        - {x: -59.039, y: -17.17633}
+        - {x: -27.039001, y: -17.17633}
+        - {x: 44.961, y: -6.1763306}
+        - {x: 46.961, y: -3.1763306}
+        - {x: 46.961, y: 78.82367}
+        - {x: 42.961, y: 97.82367}
+      - - {x: -60.039, y: 20.82367}
+        - {x: -60.039, y: 4.8236694}
+        - {x: -55.039, y: 2.8236694}
+        - {x: -46.039, y: 2.8236694}
+        - {x: -46.039, y: 15.823669}
+        - {x: -48.039, y: 23.82367}
+        - {x: -54.039, y: 27.82367}
+        - {x: -59.039, y: 27.82367}
+      - - {x: -60.039, y: 54.82367}
+        - {x: -60.039, y: 28.82367}
+        - {x: -56.039, y: 28.82367}
+        - {x: -55.039, y: 31.82367}
+        - {x: -55.039, y: 49.82367}
+        - {x: -57.039, y: 54.82367}
+    - name: Knight_Top_Left_Arm
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 729
+        width: 54
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4353163, y: 0.77575254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.50708, y: -77.43579}
+        - {x: -9.50708, y: -78.43579}
+        - {x: -9.50708, y: -88.43579}
+        - {x: -5.50708, y: -88.43579}
+        - {x: -2.50708, y: -84.43579}
+        - {x: -2.50708, y: -78.43579}
+        - {x: -4.50708, y: -77.43579}
+      - - {x: -22.50708, y: 25.564209}
+        - {x: -23.50708, y: 19.564209}
+        - {x: -23.50708, y: -31.435791}
+        - {x: -10.50708, y: -73.43579}
+        - {x: 0.49291992, y: -82.43579}
+        - {x: 30.49292, y: -82.43579}
+        - {x: 30.49292, y: 19.564209}
+        - {x: 23.49292, y: 25.564209}
+    - name: Knight_02_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 626
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Knight_02_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 638
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Knight_Lower_Left_Arm
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 586
+        width: 64
+        height: 94
+      alignment: 9
+      pivot: {x: 0.28169537, y: 0.8158446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.028503, y: 17.310608}
+        - {x: -18.028503, y: 16.310608}
+        - {x: -18.028503, y: -19.689392}
+        - {x: 22.971497, y: -76.68939}
+        - {x: 43.971497, y: -76.68939}
+        - {x: 45.971497, y: -74.68939}
+        - {x: 45.971497, y: -30.689392}
+        - {x: 12.971497, y: 17.310608}
+    - name: Knight_Lower_Right_Arm
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 536
+        width: 53
+        height: 97
+      alignment: 9
+      pivot: {x: 0.3354979, y: 0.85953104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.781387, y: 13.625488}
+        - {x: -17.781387, y: 8.625488}
+        - {x: -17.781387, y: -24.374512}
+        - {x: -0.7813873, y: -83.37451}
+        - {x: 28.218613, y: -83.37451}
+        - {x: 28.218613, y: -23.374512}
+        - {x: 12.218613, y: 13.625488}
+      - - {x: 31.218613, y: -33.37451}
+        - {x: 31.218613, y: -34.37451}
+        - {x: 33.218613, y: -36.37451}
+        - {x: 35.218613, y: -35.37451}
+        - {x: 35.218613, y: -30.374512}
+        - {x: 34.218613, y: -30.374512}
+    - name: Knight_02_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 620
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Knight_02_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 560
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Knight_Lower_Body
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 527
+        width: 118
+        height: 50
+      alignment: 9
+      pivot: {x: 0.44079873, y: 0.70957273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.985748, y: 14.521362}
+        - {x: -30.014252, y: 5.5213623}
+        - {x: -52.01425, y: -10.478638}
+        - {x: -52.01425, y: -35.478638}
+        - {x: 39.98575, y: -35.478638}
+        - {x: 60.98575, y: -18.478638}
+        - {x: 60.98575, y: -4.4786377}
+        - {x: 49.98575, y: 14.521362}
+      - - {x: 61.98575, y: -28.478638}
+        - {x: 59.98575, y: -28.478638}
+        - {x: 57.98575, y: -31.478638}
+        - {x: 57.98575, y: -34.478638}
+        - {x: 59.98575, y: -35.478638}
+        - {x: 61.98575, y: -35.478638}
+        - {x: 63.98575, y: -32.478638}
+        - {x: 63.98575, y: -29.478638}
+      - - {x: 63.98575, y: -13.478638}
+        - {x: 60.98575, y: -15.478638}
+        - {x: 60.98575, y: -21.478638}
+        - {x: 61.98575, y: -23.478638}
+        - {x: 65.98575, y: -23.478638}
+        - {x: 65.98575, y: -14.478638}
+        - {x: 64.98575, y: -13.478638}
+    - name: Knight_02_16
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 538
+        width: 36
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7156093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -10.964355}
+        - {x: -13, y: -57.964355}
+        - {x: 17, y: -57.964355}
+        - {x: 18, y: -53.964355}
+        - {x: 18, y: 23.035645}
+        - {x: 5, y: 23.035645}
+        - {x: -18, y: 18.035645}
+    - name: Knight_02_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 525
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Knight_Top_Right_Leg
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 365
+        width: 75
+        height: 126
+      alignment: 9
+      pivot: {x: 0.44187582, y: 0.85462683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.140686, y: -98.68298}
+        - {x: -24.140686, y: -107.68298}
+        - {x: -19.140686, y: -107.68298}
+        - {x: -18.140686, y: -106.68298}
+        - {x: -18.140686, y: -99.68298}
+        - {x: -20.140686, y: -97.68298}
+      - - {x: 13.859314, y: 18.317017}
+        - {x: -33.140686, y: 10.317017}
+        - {x: -33.140686, y: -16.682983}
+        - {x: -8.140686, y: -103.68298}
+        - {x: 37.859314, y: -103.68298}
+        - {x: 41.859314, y: -87.68298}
+        - {x: 41.859314, y: 18.317017}
+    - name: Knight_Top_Lrft_Leg
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 375
+        width: 75
+        height: 126
+      alignment: 9
+      pivot: {x: 0.47093832, y: 0.8459773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.320374, y: -97.59314}
+        - {x: -27.320374, y: -106.59314}
+        - {x: -22.320374, y: -106.59314}
+        - {x: -21.320374, y: -105.59314}
+        - {x: -21.320374, y: -98.59314}
+        - {x: -23.320374, y: -96.59314}
+      - - {x: 12.679626, y: 19.40686}
+        - {x: -35.320374, y: 11.40686}
+        - {x: -35.320374, y: -15.59314}
+        - {x: -10.320374, y: -102.59314}
+        - {x: 28.679626, y: -102.59314}
+        - {x: 39.679626, y: -72.59314}
+        - {x: 39.679626, y: 9.40686}
+        - {x: 34.679626, y: 19.40686}
+    - name: Knight_02_20
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 467
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Knight_02_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 457
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Knight_Lower_Right_Leg
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 176
+        width: 85
+        height: 158
+      alignment: 9
+      pivot: {x: 0.20859052, y: 0.7796457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.269806, y: 34.81598}
+        - {x: -17.730194, y: 18.815979}
+        - {x: -17.730194, y: -123.18402}
+        - {x: 38.269806, y: -123.18402}
+        - {x: 38.269806, y: 34.81598}
+      - - {x: 62.269806, y: -6.184021}
+        - {x: 55.269806, y: -6.184021}
+        - {x: 53.269806, y: -7.184021}
+        - {x: 53.269806, y: -10.184021}
+        - {x: 54.269806, y: -12.184021}
+        - {x: 62.269806, y: -12.184021}
+        - {x: 64.269806, y: -11.184021}
+        - {x: 64.269806, y: -7.184021}
+      - - {x: 64.269806, y: -10.184021}
+        - {x: 66.269806, y: -12.184021}
+        - {x: 67.269806, y: -12.184021}
+        - {x: 67.269806, y: -7.184021}
+        - {x: 65.269806, y: -7.184021}
+    - name: Knight_Lower_Left_Leg
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 192
+        width: 54
+        height: 158
+      alignment: 9
+      pivot: {x: 0.4585707, y: 0.7690225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.237183, y: 36.494446}
+        - {x: -24.762817, y: 13.494446}
+        - {x: -24.762817, y: -119.505554}
+        - {x: -21.762817, y: -121.505554}
+        - {x: 29.237183, y: -121.505554}
+        - {x: 29.237183, y: 36.494446}
+    - name: Knight_Right_Foot
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 138
+        width: 98
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3907013, y: 0.81380653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.711273, y: 5.958191}
+        - {x: -23.288727, y: 5.958191}
+        - {x: -29.288727, y: -8.041809}
+        - {x: -29.288727, y: -26.04181}
+        - {x: 53.711273, y: -26.04181}
+        - {x: 59.711273, y: -25.04181}
+        - {x: 59.711273, y: -4.041809}
+        - {x: 53.711273, y: -0.041809082}
+      - - {x: -38.288727, y: -22.04181}
+        - {x: -37.288727, y: -23.04181}
+        - {x: -34.288727, y: -22.04181}
+        - {x: -34.288727, y: -19.04181}
+        - {x: -37.288727, y: -18.04181}
+        - {x: -38.288727, y: -19.04181}
+    - name: Knight_Left_Foot
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 138
+        width: 98
+        height: 32
+      alignment: 9
+      pivot: {x: 0.36303213, y: 0.70973206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.57715, y: -14.711426}
+        - {x: -35.57715, y: -15.711426}
+        - {x: -35.57715, y: -22.711426}
+        - {x: -32.57715, y: -22.711426}
+        - {x: -30.577148, y: -17.711426}
+        - {x: -30.577148, y: -15.711426}
+        - {x: -31.577148, y: -14.711426}
+      - - {x: -18.577148, y: 9.288574}
+        - {x: -25.577148, y: 7.288574}
+        - {x: -25.577148, y: -22.711426}
+        - {x: 55.42285, y: -22.711426}
+        - {x: 62.42285, y: -14.711426}
+        - {x: 62.42285, y: 0.28857422}
+        - {x: 44.42285, y: 9.288574}
+    - name: Knight_Cough2
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 928
+        width: 146
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 96.5}
+        - {x: 28, y: 96.5}
+        - {x: -6, y: 85.5}
+        - {x: -73, y: -75.5}
+        - {x: -73, y: -96.5}
+        - {x: -33, y: -96.5}
+        - {x: -7, y: -80.5}
+        - {x: 3, y: -73.5}
+        - {x: 73, y: 82.5}
+      - - {x: 32, y: 91.5}
+        - {x: 35, y: 92.5}
+        - {x: 36, y: 96.5}
+        - {x: 31, y: 96.5}
+        - {x: 30, y: 93.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

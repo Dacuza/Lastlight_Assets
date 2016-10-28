@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: cadef7e0fe5b31341967ffc34b523df3
+timeCreated: 1474131945
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Camelion_Head
+    21300002: Camelion_Body
+    21300004: Camelion_lower_right _hand
+    21300006: Camelion_top_right_hand
+    21300008: Camelion_tail
+    21300010: Camelion_lower_left_hand
+    21300012: Camelion_top_left_hand
+    21300014: Camelion_top_right_leg
+    21300016: Camelion_top_left_leg
+    21300018: Camelion_9
+    21300020: Camelion_lower_right_leg
+    21300022: Camelion_lower_left_leg
+    21300024: Camelion_right_foot
+    21300026: Camelion_left_foot
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Camelion_Head
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2863
+        width: 470
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_Body
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2554
+        width: 586
+        height: 711
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_lower_right _hand
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2028
+        width: 127
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_top_right_hand
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 2169
+        width: 101
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_tail
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1987
+        width: 670
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_lower_left_hand
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1390
+        width: 154
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_top_left_hand
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1552
+        width: 91
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_top_right_leg
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1231
+        width: 328
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_top_left_leg
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1229
+        width: 327
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1512
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_lower_right_leg
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 640
+        width: 370
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_lower_left_leg
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 672
+        width: 403
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_right_foot
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 182
+        width: 641
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Camelion_left_foot
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 180
+        width: 640
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
